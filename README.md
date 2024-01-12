@@ -1,4 +1,4 @@
-![Untitled video - Made with Clipchamp](https://github.com/DevSherman/TPS/assets/10392153/3135cb7b-2965-4140-8001-88eaf356ff25)# TPS
+# TPS
 Top down game motion animation showcase project.
 Calculate motion vector for blend animations, ralative to camera forward direction and player forward direction/rotation (controlled by mouse position).
 
